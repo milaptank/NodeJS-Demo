@@ -13,11 +13,10 @@ cd example-name
 npm install
 npm start
 ```
-For Debuging Examples
+For Debugging Examples
 ```sh
 npm run debug
 ```
 =======
-# NodeJS-Demo
-learning node js
+
 
